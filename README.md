@@ -26,9 +26,11 @@ To develop a convolutional autoencoder for image denoising application.
 
 ### DATASET :
 
-The dataset for developing the convolutional autoencoder for image denoising application is given in the upload section.
+The link for the dataset for developing the convolutional autoencoder for image denoising application is given.
 
-The MNIST dataset is downloaded from kaggle and splitted into training set and testing set and uploaded in the file upload section.
+The MNIST dataset is downloaded from kaggle and splitted into training set and testing set.
+
+https://www.kaggle.com/datasets/oddrationale/mnist-in-csv/versions/2?resource=download
 
 #### TRAINING SET (mnist_train) :
 
