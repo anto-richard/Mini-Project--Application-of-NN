@@ -233,6 +233,8 @@ plt.show()
 
 ### GOOGLE COLAB PYTHON FILE :
 
+The colab file is also uploaded (check the uploaded files) as well as the link for accessing the colab file is given.
+
 https://colab.research.google.com/drive/1sR1MqHsbXLFnASkMGSCy0NYTREgqpbs0
 
 ### ADVANTAGES :
